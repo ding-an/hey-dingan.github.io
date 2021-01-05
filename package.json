@@ -1,0 +1,24 @@
+{
+    "name": "hey-dingan.github.io",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "npx vuepress dev src",
+        "build": "npx vuepress build src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ding-an/hey-dingan.github.io.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ding-an/hey-dingan.github.io/issues"
+    },
+    "homepage": "https://github.com/ding-an/hey-dingan.github.io#readme",
+    "dependencies": {
+        "vuepress": "^1.7.1"
+    }
+}
